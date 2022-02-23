@@ -1,7 +1,3 @@
-/*
-C++ program to demonstrate the use of default constructor
-Krati Agrawal*/
-
 #include <iostream>
 using namespace std;
 
